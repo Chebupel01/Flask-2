@@ -9,6 +9,7 @@ div {
 .image-border {
     border: 10px solid #FFFF00;
 }
+
 }
 form.login_form {
     margin-left: auto;
@@ -18,5 +19,13 @@ form.login_form {
     border: 1px solid gray;
     border-radius: 5px;
     padding: 10px;
+}
+
+.gradient {
+  color: purple;
+  border: 2px solid;
+  border-color: linear-gradient(blue, pink);
+  border-radius: 5px;
+  width: 300px;
 }
 
